@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jan 16 09:28:56 2022
-
+simulation of [128, 64] codes
 @author: yinri
 """
 import numpy as np
